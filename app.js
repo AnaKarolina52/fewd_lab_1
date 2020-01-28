@@ -38,3 +38,4 @@ var six = 'Indigo,';
 var seven = 'Violet,';
 
 console.log(phase+one +two+three+four+five+six+seven+endingPhrase);
+
